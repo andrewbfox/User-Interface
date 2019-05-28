@@ -65,13 +65,17 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 a {
-	padding: 10px;
+	color: gray;
+	text-decoration: none;
+	margin-top: 20px;
+	margin-left: 150px;
+}
+
+header img {
+	float: right;
+	
 }
 
 h1 {
-	display: inline-block;
-}
-
-img {
-	display: inline-block;
+	font-size: 80px;
 }
