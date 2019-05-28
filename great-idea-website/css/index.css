@@ -64,3 +64,14 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+a {
+	padding: 10px;
+}
+
+h1 {
+	display: inline-block;
+}
+
+img {
+	display: inline-block;
+}
